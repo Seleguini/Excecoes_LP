@@ -1,0 +1,1 @@
+ABCDEFG 900: O valor não pode ser negativo.
